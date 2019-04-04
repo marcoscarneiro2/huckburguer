@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+body{
+    background-image: url(floresta.jpg);
+    background-size: 100%;
+}
+#container{
+	margin: auto;
+	text-align: center;
+	width: 60%;
+    font-family: sans-serif;
+}
+#container{
+   height: 500px;
+}
+form{
+    position:sticky;
+    width: 500px;
+    left: 35%;
+    background-color: rgb(201, 155, 109);
+    padding: 5px 40px 5px 40px;
+   
+}
+.butaun{
+    color: aliceblue;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    padding-right: 2%;
+    padding-left: 2%;
+    background-color: rgb(65, 48, 31);
+    border-radius: 20px;
+    margin-left: 86%;
+}
+.butaun:hover{
+    background-color: #a88e6f;
+}
+.form-control{
+
+}
